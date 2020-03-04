@@ -49,7 +49,7 @@ public class RedBuss {
 		System.out.println(date);
 		
 		
-		LocalDate plDays = date.plusDays(286);
+		LocalDate plDays = date.plusDays(50);
 		int pday = plDays.getDayOfMonth();
 		String pMonth = plDays.getMonth().toString().substring(0, 3);
 		String actPMon = pMonth.substring(0, 1)+pMonth.substring(1,3).toLowerCase();
