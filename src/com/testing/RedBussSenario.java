@@ -85,8 +85,6 @@ public class RedBussSenario {
 		
 		WebElement returnCal = driver.findElement(By.id("return_cal"));
 		
-		
-		
 		returnCal.sendKeys(Keys.ENTER);
 		//driver.switchTo().frame(returnCal);
 		
