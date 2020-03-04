@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Default_suite">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
+                    <span>C:\Users\HP\AppData\Local\Temp\testng-eclipse-1478039436\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Default_suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Default_suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Default_suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Default_suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Default_suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Default_suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.testing.UrbanLadder" hash-for-method="openApp">openApp</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.testing.UrbanLadder</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="openApp">
+                  </a> <!-- openApp -->
+                  <span class="method-name">openApp</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\HP\AppData\Local\Temp\testng-eclipse-1478039436\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Default suite&quot;&gt;
+  &lt;test verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.testing.UrbanLadder&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'openApp')
+data.setCell(0, 2, 'com.testing.UrbanLadder')
+data.setCell(0, 3, 110837);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">openApp</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Sale</span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output"></span>
+                <span class="reporter-method-output">Living</span>
+                <span class="reporter-method-output">Sofa Set</span>
+                <span class="reporter-method-output">Fabric Sofa Sets</span>
+                <span class="reporter-method-output">L Shaped Sofa Sets</span>
+                <span class="reporter-method-output">Wooden Sofa Sets</span>
+                <span class="reporter-method-output">Sofa cum Beds</span>
+                <span class="reporter-method-output">Leather Sofa Sets</span>
+                <span class="reporter-method-output">Leatherette Sofa Sets</span>
+                <span class="reporter-method-output">Loveseats</span>
+                <span class="reporter-method-output">Futons</span>
+                <span class="reporter-method-output">Diwans</span>
+                <span class="reporter-method-output">Sofa Accessories</span>
+                <span class="reporter-method-output">Sofas</span>
+                <span class="reporter-method-output">Chairs</span>
+                <span class="reporter-method-output">Lounge Chairs</span>
+                <span class="reporter-method-output">Recliners</span>
+                <span class="reporter-method-output">Rocking Chairs</span>
+                <span class="reporter-method-output">Accent Chairs</span>
+                <span class="reporter-method-output">Designer Chairs</span>
+                <span class="reporter-method-output">Ottomans & Stools</span>
+                <span class="reporter-method-output">Benches</span>
+                <span class="reporter-method-output">Lounge & Accent Chairs</span>
+                <span class="reporter-method-output">Bar Stools</span>
+                <span class="reporter-method-output">Tables</span>
+                <span class="reporter-method-output">Coffee Tables</span>
+                <span class="reporter-method-output">Nested Tables</span>
+                <span class="reporter-method-output">Side & End Tables</span>
+                <span class="reporter-method-output">Coffee Table Sets</span>
+                <span class="reporter-method-output">Console Table</span>
+                <span class="reporter-method-output">Storage</span>
+                <span class="reporter-method-output">Bookshelves</span>
+                <span class="reporter-method-output">TV Units</span>
+                <span class="reporter-method-output">Shoe Racks</span>
+                <span class="reporter-method-output">Living Room Sets</span>
+                <span class="reporter-method-output">Storage Solutions</span>
+                <span class="reporter-method-output">Wall Shelves</span>
+                <span class="reporter-method-output">Prayer Units</span>
+                <span class="reporter-method-output">Showcases</span>
+                <span class="reporter-method-output">Entryway & Foyer</span>
+                <span class="reporter-method-output">Corner Storage</span>
+                <span class="reporter-method-output">Room Divider</span>
+                <span class="reporter-method-output">Decor</span>
+                <span class="reporter-method-output">Carpets</span>
+                <span class="reporter-method-output">Floor Lamps</span>
+                <span class="reporter-method-output">Curtains</span>
+                <span class="reporter-method-output">Cushion Covers</span>
+                <span class="reporter-method-output">Wall Mirrors</span>
+                <span class="reporter-method-output">Table Lamps</span>
+                <span class="reporter-method-output">Ceiling Lamps</span>
+                <span class="reporter-method-output">Pouffe</span>
+                <span class="reporter-method-output">Balcony & Outdoor</span>
+                <span class="reporter-method-output">Balcony Chairs</span>
+                <span class="reporter-method-output">Outdoor Tables</span>
+                <span class="reporter-method-output">Balcony Sets</span>
+                <span class="reporter-method-output">Swing Chairs</span>
+                <span class="reporter-method-output">Bedroom</span>
+                <span class="reporter-method-output">Beds</span>
+                <span class="reporter-method-output">Beds with Storage</span>
+                <span class="reporter-method-output">Beds without Storage</span>
+                <span class="reporter-method-output">Double Beds</span>
+                <span class="reporter-method-output">King Size Beds</span>
+                <span class="reporter-method-output">Queen Size Beds</span>
+                <span class="reporter-method-output">Single Beds</span>
+                <span class="reporter-method-output">Hydraulic Storage Beds</span>
+                <span class="reporter-method-output">Upholstered Beds</span>
+                <span class="reporter-method-output">Four Poster Beds</span>
+                <span class="reporter-method-output">Trundle Beds</span>
+                <span class="reporter-method-output">Bunk Beds</span>
+                <span class="reporter-method-output">Platform Beds</span>
+                <span class="reporter-method-output">Sofa cum Beds</span>
+                <span class="reporter-method-output">Beds with Mattresses</span>
+                <span class="reporter-method-output">Futons</span>
+                <span class="reporter-method-output">Kids Beds</span>
+                <span class="reporter-method-output">Beds by Design</span>
+                <span class="reporter-method-output">Bedroom Sets</span>
+                <span class="reporter-method-output">Mattresses</span>
+                <span class="reporter-method-output">Mattresses</span>
+                <span class="reporter-method-output">Mattress Beds</span>
+                <span class="reporter-method-output">Storage & Accessories</span>
+                <span class="reporter-method-output">Wardrobes</span>
+                <span class="reporter-method-output">Chest of Drawers</span>
+                <span class="reporter-method-output">Bedside Tables</span>
+                <span class="reporter-method-output">Dressers & Mirrors</span>
+                <span class="reporter-method-output">Bedroom Accessories</span>
+                <span class="reporter-method-output">Bedroom Benches</span>
+                <span class="reporter-method-output">Storage Chests</span>
+                <span class="reporter-method-output">Kids Bedroom</span>
+                <span class="reporter-method-output">Kids Beds</span>
+                <span class="reporter-method-output">Bunk Beds</span>
+                <span class="reporter-method-output">Bedroom Sets</span>
+                <span class="reporter-method-output">Sets by Design</span>
+                <span class="reporter-method-output">Beds with Mattresses</span>
+                <span class="reporter-method-output">Decor</span>
+                <span class="reporter-method-output">Bed Sheets</span>
+                <span class="reporter-method-output">All Curtains</span>
+                <span class="reporter-method-output">Carpets</span>
+                <span class="reporter-method-output">Cushion Covers</span>
+                <span class="reporter-method-output">Floor Lamps</span>
+                <span class="reporter-method-output">Table Lamps</span>
+                <span class="reporter-method-output">Wall Lamp</span>
+                <span class="reporter-method-output">Ceiling Lamp</span>
+                <span class="reporter-method-output">Wall Mirror</span>
+                <span class="reporter-method-output">Quilts</span>
+                <span class="reporter-method-output">Dining</span>
+                <span class="reporter-method-output">Dining Tables & Sets</span>
+                <span class="reporter-method-output">6 Seater Dining Table Sets</span>
+                <span class="reporter-method-output">4 Seater Dining Table Sets</span>
+                <span class="reporter-method-output">Folding Dining Table Sets</span>
+                <span class="reporter-method-output">2 & 3 Seater Dining Table Sets</span>
+                <span class="reporter-method-output">8 Seater Dining Table Sets</span>
+                <span class="reporter-method-output">Dining Tables</span>
+                <span class="reporter-method-output">All Dining Table Sets</span>
+                <span class="reporter-method-output">Chairs</span>
+                <span class="reporter-method-output">Dining Chairs</span>
+                <span class="reporter-method-output">Benches</span>
+                <span class="reporter-method-output">Dining Storage</span>
+                <span class="reporter-method-output">Crockery Units</span>
+                <span class="reporter-method-output">Kitchen Cabinets & Racks</span>
+                <span class="reporter-method-output">Decor</span>
+                <span class="reporter-method-output">Table Mats & Napkins</span>
+                <span class="reporter-method-output">Chair pads & Cushions</span>
+                <span class="reporter-method-output">Carpets</span>
+                <span class="reporter-method-output">Curtains</span>
+                <span class="reporter-method-output">Ceiling Lights</span>
+                <span class="reporter-method-output">Bar Furniture</span>
+                <span class="reporter-method-output">Bar Cabinets</span>
+                <span class="reporter-method-output">Bar Stools</span>
+                <span class="reporter-method-output">Storage</span>
+                <span class="reporter-method-output">Living Storage</span>
+                <span class="reporter-method-output">Bookshelves</span>
+                <span class="reporter-method-output">TV Units</span>
+                <span class="reporter-method-output">Shoe Racks</span>
+                <span class="reporter-method-output">Living Room Sets</span>
+                <span class="reporter-method-output">Storage Solutions</span>
+                <span class="reporter-method-output">Wall Shelves</span>
+                <span class="reporter-method-output">Prayer Units</span>
+                <span class="reporter-method-output">Showcases</span>
+                <span class="reporter-method-output">Entryway & Foyer</span>
+                <span class="reporter-method-output">Corner Storage</span>
+                <span class="reporter-method-output">Bedroom Storage</span>
+                <span class="reporter-method-output">Cupboards</span>
+                <span class="reporter-method-output">Chest of Drawers</span>
+                <span class="reporter-method-output">Bedside Tables</span>
+                <span class="reporter-method-output">Dressers & Mirrors</span>
+                <span class="reporter-method-output">Kids Storage</span>
+                <span class="reporter-method-output">Storage Chests</span>
+                <span class="reporter-method-output">Dining Storage</span>
+                <span class="reporter-method-output">Crockery Units</span>
+                <span class="reporter-method-output">Kitchen Cabinets & Racks</span>
+                <span class="reporter-method-output">Bar Cabinets</span>
+                <span class="reporter-method-output">Shop by Range</span>
+                <span class="reporter-method-output">Norland Range</span>
+                <span class="reporter-method-output">Scala Range</span>
+                <span class="reporter-method-output">Oslo Range</span>
+                <span class="reporter-method-output">Bocado Range</span>
+                <span class="reporter-method-output">Terence Range</span>
+                <span class="reporter-method-output">Zephyr Range</span>
+                <span class="reporter-method-output">Iwaki & Bayern Range</span>
+                <span class="reporter-method-output">Rhodes Range</span>
+                <span class="reporter-method-output">Murano Range</span>
+                <span class="reporter-method-output">Vector Range</span>
+                <span class="reporter-method-output">Study</span>
+                <span class="reporter-method-output">Study Tables</span>
+                <span class="reporter-method-output">Study Tables</span>
+                <span class="reporter-method-output">Computer Tables</span>
+                <span class="reporter-method-output">Study Sets</span>
+                <span class="reporter-method-output">Laptop Tables</span>
+                <span class="reporter-method-output">Study Tables For Kids</span>
+                <span class="reporter-method-output">Solid Wood Study Tables</span>
+                <span class="reporter-method-output">Storage Savvy Study Tables</span>
+                <span class="reporter-method-output">All Study Tables</span>
+                <span class="reporter-method-output">Study Chairs</span>
+                <span class="reporter-method-output">Study Chairs</span>
+                <span class="reporter-method-output">Office Chairs</span>
+                <span class="reporter-method-output">Ergonomic Study Chairs</span>
+                <span class="reporter-method-output">Solid Wood Study Chairs</span>
+                <span class="reporter-method-output">Accent Study Chairs</span>
+                <span class="reporter-method-output">All Study Chairs</span>
+                <span class="reporter-method-output">Storage</span>
+                <span class="reporter-method-output">Bookshelves</span>
+                <span class="reporter-method-output">Open Bookshelves</span>
+                <span class="reporter-method-output">Wall Shelves</span>
+                <span class="reporter-method-output">Closed Bookshelves</span>
+                <span class="reporter-method-output">Study Lamps</span>
+                <span class="reporter-method-output">Study Lamps</span>
+                <span class="reporter-method-output">Office Furniture</span>
+                <span class="reporter-method-output">Office Chairs</span>
+                <span class="reporter-method-output">Office Tables</span>
+                <span class="reporter-method-output">Mattresses</span>
+                <span class="reporter-method-output">Decor</span>
+                <span class="reporter-method-output">New</span>
+                <span class="reporter-method-output">Collections</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.testing.UrbanLadder</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">openApp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

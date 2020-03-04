@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Sale]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Living]]>
+    </line>
+    <line>
+      <![CDATA[Sofa Set]]>
+    </line>
+    <line>
+      <![CDATA[Fabric Sofa Sets]]>
+    </line>
+    <line>
+      <![CDATA[L Shaped Sofa Sets]]>
+    </line>
+    <line>
+      <![CDATA[Wooden Sofa Sets]]>
+    </line>
+    <line>
+      <![CDATA[Sofa cum Beds]]>
+    </line>
+    <line>
+      <![CDATA[Leather Sofa Sets]]>
+    </line>
+    <line>
+      <![CDATA[Leatherette Sofa Sets]]>
+    </line>
+    <line>
+      <![CDATA[Loveseats]]>
+    </line>
+    <line>
+      <![CDATA[Futons]]>
+    </line>
+    <line>
+      <![CDATA[Diwans]]>
+    </line>
+    <line>
+      <![CDATA[Sofa Accessories]]>
+    </line>
+    <line>
+      <![CDATA[Sofas]]>
+    </line>
+    <line>
+      <![CDATA[Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Lounge Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Recliners]]>
+    </line>
+    <line>
+      <![CDATA[Rocking Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Accent Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Designer Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Ottomans & Stools]]>
+    </line>
+    <line>
+      <![CDATA[Benches]]>
+    </line>
+    <line>
+      <![CDATA[Lounge & Accent Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Bar Stools]]>
+    </line>
+    <line>
+      <![CDATA[Tables]]>
+    </line>
+    <line>
+      <![CDATA[Coffee Tables]]>
+    </line>
+    <line>
+      <![CDATA[Nested Tables]]>
+    </line>
+    <line>
+      <![CDATA[Side & End Tables]]>
+    </line>
+    <line>
+      <![CDATA[Coffee Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[Console Table]]>
+    </line>
+    <line>
+      <![CDATA[Storage]]>
+    </line>
+    <line>
+      <![CDATA[Bookshelves]]>
+    </line>
+    <line>
+      <![CDATA[TV Units]]>
+    </line>
+    <line>
+      <![CDATA[Shoe Racks]]>
+    </line>
+    <line>
+      <![CDATA[Living Room Sets]]>
+    </line>
+    <line>
+      <![CDATA[Storage Solutions]]>
+    </line>
+    <line>
+      <![CDATA[Wall Shelves]]>
+    </line>
+    <line>
+      <![CDATA[Prayer Units]]>
+    </line>
+    <line>
+      <![CDATA[Showcases]]>
+    </line>
+    <line>
+      <![CDATA[Entryway & Foyer]]>
+    </line>
+    <line>
+      <![CDATA[Corner Storage]]>
+    </line>
+    <line>
+      <![CDATA[Room Divider]]>
+    </line>
+    <line>
+      <![CDATA[Decor]]>
+    </line>
+    <line>
+      <![CDATA[Carpets]]>
+    </line>
+    <line>
+      <![CDATA[Floor Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Curtains]]>
+    </line>
+    <line>
+      <![CDATA[Cushion Covers]]>
+    </line>
+    <line>
+      <![CDATA[Wall Mirrors]]>
+    </line>
+    <line>
+      <![CDATA[Table Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Ceiling Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Pouffe]]>
+    </line>
+    <line>
+      <![CDATA[Balcony & Outdoor]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Outdoor Tables]]>
+    </line>
+    <line>
+      <![CDATA[Balcony Sets]]>
+    </line>
+    <line>
+      <![CDATA[Swing Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Bedroom]]>
+    </line>
+    <line>
+      <![CDATA[Beds]]>
+    </line>
+    <line>
+      <![CDATA[Beds with Storage]]>
+    </line>
+    <line>
+      <![CDATA[Beds without Storage]]>
+    </line>
+    <line>
+      <![CDATA[Double Beds]]>
+    </line>
+    <line>
+      <![CDATA[King Size Beds]]>
+    </line>
+    <line>
+      <![CDATA[Queen Size Beds]]>
+    </line>
+    <line>
+      <![CDATA[Single Beds]]>
+    </line>
+    <line>
+      <![CDATA[Hydraulic Storage Beds]]>
+    </line>
+    <line>
+      <![CDATA[Upholstered Beds]]>
+    </line>
+    <line>
+      <![CDATA[Four Poster Beds]]>
+    </line>
+    <line>
+      <![CDATA[Trundle Beds]]>
+    </line>
+    <line>
+      <![CDATA[Bunk Beds]]>
+    </line>
+    <line>
+      <![CDATA[Platform Beds]]>
+    </line>
+    <line>
+      <![CDATA[Sofa cum Beds]]>
+    </line>
+    <line>
+      <![CDATA[Beds with Mattresses]]>
+    </line>
+    <line>
+      <![CDATA[Futons]]>
+    </line>
+    <line>
+      <![CDATA[Kids Beds]]>
+    </line>
+    <line>
+      <![CDATA[Beds by Design]]>
+    </line>
+    <line>
+      <![CDATA[Bedroom Sets]]>
+    </line>
+    <line>
+      <![CDATA[Mattresses]]>
+    </line>
+    <line>
+      <![CDATA[Mattresses]]>
+    </line>
+    <line>
+      <![CDATA[Mattress Beds]]>
+    </line>
+    <line>
+      <![CDATA[Storage & Accessories]]>
+    </line>
+    <line>
+      <![CDATA[Wardrobes]]>
+    </line>
+    <line>
+      <![CDATA[Chest of Drawers]]>
+    </line>
+    <line>
+      <![CDATA[Bedside Tables]]>
+    </line>
+    <line>
+      <![CDATA[Dressers & Mirrors]]>
+    </line>
+    <line>
+      <![CDATA[Bedroom Accessories]]>
+    </line>
+    <line>
+      <![CDATA[Bedroom Benches]]>
+    </line>
+    <line>
+      <![CDATA[Storage Chests]]>
+    </line>
+    <line>
+      <![CDATA[Kids Bedroom]]>
+    </line>
+    <line>
+      <![CDATA[Kids Beds]]>
+    </line>
+    <line>
+      <![CDATA[Bunk Beds]]>
+    </line>
+    <line>
+      <![CDATA[Bedroom Sets]]>
+    </line>
+    <line>
+      <![CDATA[Sets by Design]]>
+    </line>
+    <line>
+      <![CDATA[Beds with Mattresses]]>
+    </line>
+    <line>
+      <![CDATA[Decor]]>
+    </line>
+    <line>
+      <![CDATA[Bed Sheets]]>
+    </line>
+    <line>
+      <![CDATA[All Curtains]]>
+    </line>
+    <line>
+      <![CDATA[Carpets]]>
+    </line>
+    <line>
+      <![CDATA[Cushion Covers]]>
+    </line>
+    <line>
+      <![CDATA[Floor Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Table Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Wall Lamp]]>
+    </line>
+    <line>
+      <![CDATA[Ceiling Lamp]]>
+    </line>
+    <line>
+      <![CDATA[Wall Mirror]]>
+    </line>
+    <line>
+      <![CDATA[Quilts]]>
+    </line>
+    <line>
+      <![CDATA[Dining]]>
+    </line>
+    <line>
+      <![CDATA[Dining Tables & Sets]]>
+    </line>
+    <line>
+      <![CDATA[6 Seater Dining Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[4 Seater Dining Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[Folding Dining Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[2 & 3 Seater Dining Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[8 Seater Dining Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[Dining Tables]]>
+    </line>
+    <line>
+      <![CDATA[All Dining Table Sets]]>
+    </line>
+    <line>
+      <![CDATA[Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Dining Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Benches]]>
+    </line>
+    <line>
+      <![CDATA[Dining Storage]]>
+    </line>
+    <line>
+      <![CDATA[Crockery Units]]>
+    </line>
+    <line>
+      <![CDATA[Kitchen Cabinets & Racks]]>
+    </line>
+    <line>
+      <![CDATA[Decor]]>
+    </line>
+    <line>
+      <![CDATA[Table Mats & Napkins]]>
+    </line>
+    <line>
+      <![CDATA[Chair pads & Cushions]]>
+    </line>
+    <line>
+      <![CDATA[Carpets]]>
+    </line>
+    <line>
+      <![CDATA[Curtains]]>
+    </line>
+    <line>
+      <![CDATA[Ceiling Lights]]>
+    </line>
+    <line>
+      <![CDATA[Bar Furniture]]>
+    </line>
+    <line>
+      <![CDATA[Bar Cabinets]]>
+    </line>
+    <line>
+      <![CDATA[Bar Stools]]>
+    </line>
+    <line>
+      <![CDATA[Storage]]>
+    </line>
+    <line>
+      <![CDATA[Living Storage]]>
+    </line>
+    <line>
+      <![CDATA[Bookshelves]]>
+    </line>
+    <line>
+      <![CDATA[TV Units]]>
+    </line>
+    <line>
+      <![CDATA[Shoe Racks]]>
+    </line>
+    <line>
+      <![CDATA[Living Room Sets]]>
+    </line>
+    <line>
+      <![CDATA[Storage Solutions]]>
+    </line>
+    <line>
+      <![CDATA[Wall Shelves]]>
+    </line>
+    <line>
+      <![CDATA[Prayer Units]]>
+    </line>
+    <line>
+      <![CDATA[Showcases]]>
+    </line>
+    <line>
+      <![CDATA[Entryway & Foyer]]>
+    </line>
+    <line>
+      <![CDATA[Corner Storage]]>
+    </line>
+    <line>
+      <![CDATA[Bedroom Storage]]>
+    </line>
+    <line>
+      <![CDATA[Cupboards]]>
+    </line>
+    <line>
+      <![CDATA[Chest of Drawers]]>
+    </line>
+    <line>
+      <![CDATA[Bedside Tables]]>
+    </line>
+    <line>
+      <![CDATA[Dressers & Mirrors]]>
+    </line>
+    <line>
+      <![CDATA[Kids Storage]]>
+    </line>
+    <line>
+      <![CDATA[Storage Chests]]>
+    </line>
+    <line>
+      <![CDATA[Dining Storage]]>
+    </line>
+    <line>
+      <![CDATA[Crockery Units]]>
+    </line>
+    <line>
+      <![CDATA[Kitchen Cabinets & Racks]]>
+    </line>
+    <line>
+      <![CDATA[Bar Cabinets]]>
+    </line>
+    <line>
+      <![CDATA[Shop by Range]]>
+    </line>
+    <line>
+      <![CDATA[Norland Range]]>
+    </line>
+    <line>
+      <![CDATA[Scala Range]]>
+    </line>
+    <line>
+      <![CDATA[Oslo Range]]>
+    </line>
+    <line>
+      <![CDATA[Bocado Range]]>
+    </line>
+    <line>
+      <![CDATA[Terence Range]]>
+    </line>
+    <line>
+      <![CDATA[Zephyr Range]]>
+    </line>
+    <line>
+      <![CDATA[Iwaki & Bayern Range]]>
+    </line>
+    <line>
+      <![CDATA[Rhodes Range]]>
+    </line>
+    <line>
+      <![CDATA[Murano Range]]>
+    </line>
+    <line>
+      <![CDATA[Vector Range]]>
+    </line>
+    <line>
+      <![CDATA[Study]]>
+    </line>
+    <line>
+      <![CDATA[Study Tables]]>
+    </line>
+    <line>
+      <![CDATA[Study Tables]]>
+    </line>
+    <line>
+      <![CDATA[Computer Tables]]>
+    </line>
+    <line>
+      <![CDATA[Study Sets]]>
+    </line>
+    <line>
+      <![CDATA[Laptop Tables]]>
+    </line>
+    <line>
+      <![CDATA[Study Tables For Kids]]>
+    </line>
+    <line>
+      <![CDATA[Solid Wood Study Tables]]>
+    </line>
+    <line>
+      <![CDATA[Storage Savvy Study Tables]]>
+    </line>
+    <line>
+      <![CDATA[All Study Tables]]>
+    </line>
+    <line>
+      <![CDATA[Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Office Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Ergonomic Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Solid Wood Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Accent Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[All Study Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Storage]]>
+    </line>
+    <line>
+      <![CDATA[Bookshelves]]>
+    </line>
+    <line>
+      <![CDATA[Open Bookshelves]]>
+    </line>
+    <line>
+      <![CDATA[Wall Shelves]]>
+    </line>
+    <line>
+      <![CDATA[Closed Bookshelves]]>
+    </line>
+    <line>
+      <![CDATA[Study Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Study Lamps]]>
+    </line>
+    <line>
+      <![CDATA[Office Furniture]]>
+    </line>
+    <line>
+      <![CDATA[Office Chairs]]>
+    </line>
+    <line>
+      <![CDATA[Office Tables]]>
+    </line>
+    <line>
+      <![CDATA[Mattresses]]>
+    </line>
+    <line>
+      <![CDATA[Decor]]>
+    </line>
+    <line>
+      <![CDATA[New]]>
+    </line>
+    <line>
+      <![CDATA[Collections]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110868" started-at="2020-03-03T11:05:40Z" finished-at="2020-03-03T11:07:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110868" started-at="2020-03-03T11:05:40Z" finished-at="2020-03-03T11:07:31Z">
+      <class name="com.testing.UrbanLadder">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.testing.UrbanLadder@50c87b21]" name="openApp" duration-ms="110837" started-at="2020-03-03T16:35:40Z" finished-at="2020-03-03T16:37:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sale]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Living]]>
+            </line>
+            <line>
+              <![CDATA[Sofa Set]]>
+            </line>
+            <line>
+              <![CDATA[Fabric Sofa Sets]]>
+            </line>
+            <line>
+              <![CDATA[L Shaped Sofa Sets]]>
+            </line>
+            <line>
+              <![CDATA[Wooden Sofa Sets]]>
+            </line>
+            <line>
+              <![CDATA[Sofa cum Beds]]>
+            </line>
+            <line>
+              <![CDATA[Leather Sofa Sets]]>
+            </line>
+            <line>
+              <![CDATA[Leatherette Sofa Sets]]>
+            </line>
+            <line>
+              <![CDATA[Loveseats]]>
+            </line>
+            <line>
+              <![CDATA[Futons]]>
+            </line>
+            <line>
+              <![CDATA[Diwans]]>
+            </line>
+            <line>
+              <![CDATA[Sofa Accessories]]>
+            </line>
+            <line>
+              <![CDATA[Sofas]]>
+            </line>
+            <line>
+              <![CDATA[Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Lounge Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Recliners]]>
+            </line>
+            <line>
+              <![CDATA[Rocking Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Accent Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Designer Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Ottomans & Stools]]>
+            </line>
+            <line>
+              <![CDATA[Benches]]>
+            </line>
+            <line>
+              <![CDATA[Lounge & Accent Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Bar Stools]]>
+            </line>
+            <line>
+              <![CDATA[Tables]]>
+            </line>
+            <line>
+              <![CDATA[Coffee Tables]]>
+            </line>
+            <line>
+              <![CDATA[Nested Tables]]>
+            </line>
+            <line>
+              <![CDATA[Side & End Tables]]>
+            </line>
+            <line>
+              <![CDATA[Coffee Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[Console Table]]>
+            </line>
+            <line>
+              <![CDATA[Storage]]>
+            </line>
+            <line>
+              <![CDATA[Bookshelves]]>
+            </line>
+            <line>
+              <![CDATA[TV Units]]>
+            </line>
+            <line>
+              <![CDATA[Shoe Racks]]>
+            </line>
+            <line>
+              <![CDATA[Living Room Sets]]>
+            </line>
+            <line>
+              <![CDATA[Storage Solutions]]>
+            </line>
+            <line>
+              <![CDATA[Wall Shelves]]>
+            </line>
+            <line>
+              <![CDATA[Prayer Units]]>
+            </line>
+            <line>
+              <![CDATA[Showcases]]>
+            </line>
+            <line>
+              <![CDATA[Entryway & Foyer]]>
+            </line>
+            <line>
+              <![CDATA[Corner Storage]]>
+            </line>
+            <line>
+              <![CDATA[Room Divider]]>
+            </line>
+            <line>
+              <![CDATA[Decor]]>
+            </line>
+            <line>
+              <![CDATA[Carpets]]>
+            </line>
+            <line>
+              <![CDATA[Floor Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Curtains]]>
+            </line>
+            <line>
+              <![CDATA[Cushion Covers]]>
+            </line>
+            <line>
+              <![CDATA[Wall Mirrors]]>
+            </line>
+            <line>
+              <![CDATA[Table Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Ceiling Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Pouffe]]>
+            </line>
+            <line>
+              <![CDATA[Balcony & Outdoor]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Outdoor Tables]]>
+            </line>
+            <line>
+              <![CDATA[Balcony Sets]]>
+            </line>
+            <line>
+              <![CDATA[Swing Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Bedroom]]>
+            </line>
+            <line>
+              <![CDATA[Beds]]>
+            </line>
+            <line>
+              <![CDATA[Beds with Storage]]>
+            </line>
+            <line>
+              <![CDATA[Beds without Storage]]>
+            </line>
+            <line>
+              <![CDATA[Double Beds]]>
+            </line>
+            <line>
+              <![CDATA[King Size Beds]]>
+            </line>
+            <line>
+              <![CDATA[Queen Size Beds]]>
+            </line>
+            <line>
+              <![CDATA[Single Beds]]>
+            </line>
+            <line>
+              <![CDATA[Hydraulic Storage Beds]]>
+            </line>
+            <line>
+              <![CDATA[Upholstered Beds]]>
+            </line>
+            <line>
+              <![CDATA[Four Poster Beds]]>
+            </line>
+            <line>
+              <![CDATA[Trundle Beds]]>
+            </line>
+            <line>
+              <![CDATA[Bunk Beds]]>
+            </line>
+            <line>
+              <![CDATA[Platform Beds]]>
+            </line>
+            <line>
+              <![CDATA[Sofa cum Beds]]>
+            </line>
+            <line>
+              <![CDATA[Beds with Mattresses]]>
+            </line>
+            <line>
+              <![CDATA[Futons]]>
+            </line>
+            <line>
+              <![CDATA[Kids Beds]]>
+            </line>
+            <line>
+              <![CDATA[Beds by Design]]>
+            </line>
+            <line>
+              <![CDATA[Bedroom Sets]]>
+            </line>
+            <line>
+              <![CDATA[Mattresses]]>
+            </line>
+            <line>
+              <![CDATA[Mattresses]]>
+            </line>
+            <line>
+              <![CDATA[Mattress Beds]]>
+            </line>
+            <line>
+              <![CDATA[Storage & Accessories]]>
+            </line>
+            <line>
+              <![CDATA[Wardrobes]]>
+            </line>
+            <line>
+              <![CDATA[Chest of Drawers]]>
+            </line>
+            <line>
+              <![CDATA[Bedside Tables]]>
+            </line>
+            <line>
+              <![CDATA[Dressers & Mirrors]]>
+            </line>
+            <line>
+              <![CDATA[Bedroom Accessories]]>
+            </line>
+            <line>
+              <![CDATA[Bedroom Benches]]>
+            </line>
+            <line>
+              <![CDATA[Storage Chests]]>
+            </line>
+            <line>
+              <![CDATA[Kids Bedroom]]>
+            </line>
+            <line>
+              <![CDATA[Kids Beds]]>
+            </line>
+            <line>
+              <![CDATA[Bunk Beds]]>
+            </line>
+            <line>
+              <![CDATA[Bedroom Sets]]>
+            </line>
+            <line>
+              <![CDATA[Sets by Design]]>
+            </line>
+            <line>
+              <![CDATA[Beds with Mattresses]]>
+            </line>
+            <line>
+              <![CDATA[Decor]]>
+            </line>
+            <line>
+              <![CDATA[Bed Sheets]]>
+            </line>
+            <line>
+              <![CDATA[All Curtains]]>
+            </line>
+            <line>
+              <![CDATA[Carpets]]>
+            </line>
+            <line>
+              <![CDATA[Cushion Covers]]>
+            </line>
+            <line>
+              <![CDATA[Floor Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Table Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Wall Lamp]]>
+            </line>
+            <line>
+              <![CDATA[Ceiling Lamp]]>
+            </line>
+            <line>
+              <![CDATA[Wall Mirror]]>
+            </line>
+            <line>
+              <![CDATA[Quilts]]>
+            </line>
+            <line>
+              <![CDATA[Dining]]>
+            </line>
+            <line>
+              <![CDATA[Dining Tables & Sets]]>
+            </line>
+            <line>
+              <![CDATA[6 Seater Dining Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[4 Seater Dining Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[Folding Dining Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[2 & 3 Seater Dining Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[8 Seater Dining Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[Dining Tables]]>
+            </line>
+            <line>
+              <![CDATA[All Dining Table Sets]]>
+            </line>
+            <line>
+              <![CDATA[Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Dining Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Benches]]>
+            </line>
+            <line>
+              <![CDATA[Dining Storage]]>
+            </line>
+            <line>
+              <![CDATA[Crockery Units]]>
+            </line>
+            <line>
+              <![CDATA[Kitchen Cabinets & Racks]]>
+            </line>
+            <line>
+              <![CDATA[Decor]]>
+            </line>
+            <line>
+              <![CDATA[Table Mats & Napkins]]>
+            </line>
+            <line>
+              <![CDATA[Chair pads & Cushions]]>
+            </line>
+            <line>
+              <![CDATA[Carpets]]>
+            </line>
+            <line>
+              <![CDATA[Curtains]]>
+            </line>
+            <line>
+              <![CDATA[Ceiling Lights]]>
+            </line>
+            <line>
+              <![CDATA[Bar Furniture]]>
+            </line>
+            <line>
+              <![CDATA[Bar Cabinets]]>
+            </line>
+            <line>
+              <![CDATA[Bar Stools]]>
+            </line>
+            <line>
+              <![CDATA[Storage]]>
+            </line>
+            <line>
+              <![CDATA[Living Storage]]>
+            </line>
+            <line>
+              <![CDATA[Bookshelves]]>
+            </line>
+            <line>
+              <![CDATA[TV Units]]>
+            </line>
+            <line>
+              <![CDATA[Shoe Racks]]>
+            </line>
+            <line>
+              <![CDATA[Living Room Sets]]>
+            </line>
+            <line>
+              <![CDATA[Storage Solutions]]>
+            </line>
+            <line>
+              <![CDATA[Wall Shelves]]>
+            </line>
+            <line>
+              <![CDATA[Prayer Units]]>
+            </line>
+            <line>
+              <![CDATA[Showcases]]>
+            </line>
+            <line>
+              <![CDATA[Entryway & Foyer]]>
+            </line>
+            <line>
+              <![CDATA[Corner Storage]]>
+            </line>
+            <line>
+              <![CDATA[Bedroom Storage]]>
+            </line>
+            <line>
+              <![CDATA[Cupboards]]>
+            </line>
+            <line>
+              <![CDATA[Chest of Drawers]]>
+            </line>
+            <line>
+              <![CDATA[Bedside Tables]]>
+            </line>
+            <line>
+              <![CDATA[Dressers & Mirrors]]>
+            </line>
+            <line>
+              <![CDATA[Kids Storage]]>
+            </line>
+            <line>
+              <![CDATA[Storage Chests]]>
+            </line>
+            <line>
+              <![CDATA[Dining Storage]]>
+            </line>
+            <line>
+              <![CDATA[Crockery Units]]>
+            </line>
+            <line>
+              <![CDATA[Kitchen Cabinets & Racks]]>
+            </line>
+            <line>
+              <![CDATA[Bar Cabinets]]>
+            </line>
+            <line>
+              <![CDATA[Shop by Range]]>
+            </line>
+            <line>
+              <![CDATA[Norland Range]]>
+            </line>
+            <line>
+              <![CDATA[Scala Range]]>
+            </line>
+            <line>
+              <![CDATA[Oslo Range]]>
+            </line>
+            <line>
+              <![CDATA[Bocado Range]]>
+            </line>
+            <line>
+              <![CDATA[Terence Range]]>
+            </line>
+            <line>
+              <![CDATA[Zephyr Range]]>
+            </line>
+            <line>
+              <![CDATA[Iwaki & Bayern Range]]>
+            </line>
+            <line>
+              <![CDATA[Rhodes Range]]>
+            </line>
+            <line>
+              <![CDATA[Murano Range]]>
+            </line>
+            <line>
+              <![CDATA[Vector Range]]>
+            </line>
+            <line>
+              <![CDATA[Study]]>
+            </line>
+            <line>
+              <![CDATA[Study Tables]]>
+            </line>
+            <line>
+              <![CDATA[Study Tables]]>
+            </line>
+            <line>
+              <![CDATA[Computer Tables]]>
+            </line>
+            <line>
+              <![CDATA[Study Sets]]>
+            </line>
+            <line>
+              <![CDATA[Laptop Tables]]>
+            </line>
+            <line>
+              <![CDATA[Study Tables For Kids]]>
+            </line>
+            <line>
+              <![CDATA[Solid Wood Study Tables]]>
+            </line>
+            <line>
+              <![CDATA[Storage Savvy Study Tables]]>
+            </line>
+            <line>
+              <![CDATA[All Study Tables]]>
+            </line>
+            <line>
+              <![CDATA[Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Office Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Ergonomic Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Solid Wood Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Accent Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[All Study Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Storage]]>
+            </line>
+            <line>
+              <![CDATA[Bookshelves]]>
+            </line>
+            <line>
+              <![CDATA[Open Bookshelves]]>
+            </line>
+            <line>
+              <![CDATA[Wall Shelves]]>
+            </line>
+            <line>
+              <![CDATA[Closed Bookshelves]]>
+            </line>
+            <line>
+              <![CDATA[Study Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Study Lamps]]>
+            </line>
+            <line>
+              <![CDATA[Office Furniture]]>
+            </line>
+            <line>
+              <![CDATA[Office Chairs]]>
+            </line>
+            <line>
+              <![CDATA[Office Tables]]>
+            </line>
+            <line>
+              <![CDATA[Mattresses]]>
+            </line>
+            <line>
+              <![CDATA[Decor]]>
+            </line>
+            <line>
+              <![CDATA[New]]>
+            </line>
+            <line>
+              <![CDATA[Collections]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+      </class> <!-- com.testing.UrbanLadder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
